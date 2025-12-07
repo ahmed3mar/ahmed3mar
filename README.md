@@ -22,15 +22,6 @@ Here are some ideas to get you started:
 </p>
 <!-- 提交统计 -->
 
-<!-- 活跃统计 -->
-<div align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed3mar" />
-</div>
-<!-- 提交图表 -->
-<div align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ahmed3mar&theme=minimal" />
-</div>
-
 
 ## 🏆 GitHub Trophies
 
